@@ -63,3 +63,9 @@
 
 * tab.html主页面文件
 
+* 跟着示例学了学大概有了个模样
+
+![](https://github.com/dingyiming/demo-Shanbay-test/blob/master/pics/1%E9%A6%96%E6%AC%A1%E5%8A%A0%E8%BD%BDchrome%E7%A8%8B%E5%BA%8F.png?raw=true)
+![](https://github.com/dingyiming/demo-Shanbay-test/blob/master/pics/2%E6%9C%89%E7%AA%97%E5%8F%A3%E4%BA%86.png?raw=true)
+
+> 到 2016-01-05 周二 00：38暂停，明天考完试继续
