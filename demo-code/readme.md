@@ -37,3 +37,29 @@
 - templates        
 ```
 
+* manifest.json
+
+```
+{
+         "manifest_version": 2,
+         "name": "Presently",
+         "description": "A currently clone",
+         "version": "0.1",
+         "permissions": ["http://api.wunderground.com/api/"],
+         "background": {
+             "scripts": ["js/vendor/angular.min.js"]
+         },
+
+         // content_security_policy描述应用能做什么不能做什么
+         "content_security_policy": "script-src 'self'; object-src 'self'",
+         
+         //Chrome将应用作为newtab应用启动,设置这个应用覆盖所有新标签页
+         "chrome_url_overrides": {
+             "newtab": "tab.html"
+         }
+}
+
+```
+
+* tab.html主页面文件
+
